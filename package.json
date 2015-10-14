@@ -1,0 +1,27 @@
+{
+  "name": "groupify",
+  "version": "1.0.0",
+  "description": "divide array by n elements in groups",
+  "main": "lib/groupify.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/groupify.git"
+  },
+  "keywords": [
+    "map",
+    "array",
+    "group"
+  ],
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/groupify/issues"
+  },
+  "homepage": "https://github.com/coderaiser/groupify",
+  "devDependencies": {
+    "tape": "^4.2.0"
+  }
+}

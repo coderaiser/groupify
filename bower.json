@@ -1,0 +1,27 @@
+{
+  "name": "groupify",
+  "version": "1.0.0",
+  "homepage": "https://github.com/coderaiser/groupify",
+  "authors": [
+    "coderaiser <mnemonic.enemy@gmail.com>"
+  ],
+  "description": "divide array by n elements in groups",
+  "main": "lib/groupify.js",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "map",
+    "array",
+    "group"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
