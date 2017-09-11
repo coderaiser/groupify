@@ -1,0 +1,8 @@
+2017.09.11, v2.0.0
+
+feature:
+- (groupify) rm bower support
+- (package) add report
+- (gitignore) add
+- (package) nyc v11.2.1
+
