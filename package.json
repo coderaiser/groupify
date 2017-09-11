@@ -4,7 +4,8 @@
   "description": "divide array by n elements in groups",
   "main": "lib/groupify.js",
   "scripts": {
-    "test": "tape test/*.js"
+    "test": "tape test/*.js",
+    "coverage": "nyc npm test"
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,8 @@
   "homepage": "https://github.com/coderaiser/groupify",
   "devDependencies": {
     "tape": "^4.2.0"
+  },
+  "dependencies": {
+    "nyc": "^11.2.1"
   }
 }
