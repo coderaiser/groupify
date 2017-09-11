@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/coderaiser/groupify",
   "devDependencies": {
+    "nyc": "^11.2.1",
     "tape": "^4.2.0"
   },
   "dependencies": {
-    "nyc": "^11.2.1",
     "mapa": "^2.0.0"
   }
 }
